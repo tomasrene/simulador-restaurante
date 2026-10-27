@@ -1,10 +1,10 @@
 # Simulador de restaurante
 
-Una herramienta para explorar cómo cambian los resultados mensuales de un restaurante al mover supuestos de ventas y costos. El caso de origen es **Falcone**.
+Falcone era un proyecto de obrador de pasta que finalmente no llegamos a montar. Quería una herramienta para jugar con escenarios de horarios, aforo y cubiertos servidos y ver lo apretados que pueden ser los números en gastronomía.
 
-Se pueden variar días de apertura, volumen y precios de menú, café y tienda; costos de comida, trabajo y gastos fijos. La aplicación muestra un resultado mensual y una sensibilidad simple al volumen.
+El simulador permite variar ventas, precios, costos de comida, trabajo y gastos fijos para explorar el resultado mensual. La intención era dimensionar qué pasa si una o dos variables se escapan, antes de abrir.
 
-**Estado: exploración histórica.** Los valores iniciales son parámetros del modelo, no resultados comerciales verificados. No reemplaza una contabilidad ni incorpora automáticamente información de un negocio.
+**Estado: exploración histórica.** Los valores iniciales son supuestos del modelo; no representan resultados de un negocio que haya abierto.
 
 ## Usarlo localmente
 
